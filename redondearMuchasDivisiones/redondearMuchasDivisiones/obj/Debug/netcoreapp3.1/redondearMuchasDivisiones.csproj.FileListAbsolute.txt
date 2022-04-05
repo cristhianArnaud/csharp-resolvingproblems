@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.exe
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.deps.json
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.runtimeconfig.json
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.runtimeconfig.dev.json
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.dll
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\bin\Debug\netcoreapp3.1\redondearMuchasDivisiones.pdb
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.AssemblyInfo.cs
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.dll
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.pdb
+C:\Users\crist\source\repos\redondearMuchasDivisiones\redondearMuchasDivisiones\obj\Debug\netcoreapp3.1\redondearMuchasDivisiones.genruntimeconfig.cache

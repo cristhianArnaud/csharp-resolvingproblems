@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.exe
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.deps.json
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.runtimeconfig.json
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.runtimeconfig.dev.json
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.dll
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\bin\Debug\netcoreapp3.1\sumaDosNumeros.pdb
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.AssemblyInfo.cs
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.dll
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.pdb
+C:\Users\crist\source\repos\sumaDosNumeros\sumaDosNumeros\obj\Debug\netcoreapp3.1\sumaDosNumeros.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.exe
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.deps.json
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.runtimeconfig.json
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.runtimeconfig.dev.json
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.dll
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\bin\Debug\netcoreapp3.1\sumaValoresBucleFor.pdb
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.AssemblyInfo.cs
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.dll
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.pdb
+C:\Users\crist\source\repos\sumaValoresBucleFor\sumaValoresBucleFor\obj\Debug\netcoreapp3.1\sumaValoresBucleFor.genruntimeconfig.cache

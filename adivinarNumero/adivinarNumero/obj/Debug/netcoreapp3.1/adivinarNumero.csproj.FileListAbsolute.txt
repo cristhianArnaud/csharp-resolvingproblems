@@ -1,0 +1,13 @@
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.csproj.AssemblyReference.cache
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.AssemblyInfoInputs.cache
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.AssemblyInfo.cs
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.exe
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.deps.json
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.runtimeconfig.json
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.runtimeconfig.dev.json
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.dll
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\bin\Debug\netcoreapp3.1\adivinarNumero.pdb
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.dll
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.pdb
+C:\Users\Guerra\source\repos\adivinarNumero\adivinarNumero\obj\Debug\netcoreapp3.1\adivinarNumero.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.exe
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.deps.json
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.runtimeconfig.json
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.runtimeconfig.dev.json
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.dll
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\bin\Debug\netcoreapp3.1\facturaEdenorte.pdb
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.csproj.AssemblyReference.cache
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.AssemblyInfoInputs.cache
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.AssemblyInfo.cs
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.csproj.CoreCompileInputs.cache
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.dll
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.pdb
+C:\Users\Guerra\source\repos\facturaEdenorte\facturaEdenorte\obj\Debug\netcoreapp3.1\facturaEdenorte.genruntimeconfig.cache

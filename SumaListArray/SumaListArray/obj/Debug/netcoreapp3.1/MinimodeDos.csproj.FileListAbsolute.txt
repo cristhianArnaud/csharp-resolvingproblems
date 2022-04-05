@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.exe
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.deps.json
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.runtimeconfig.json
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.runtimeconfig.dev.json
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.dll
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\bin\Debug\netcoreapp3.1\MinimodeDos.pdb
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.AssemblyInfo.cs
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.dll
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.pdb
+C:\Users\crist\source\repos\SumaListArray\SumaListArray\obj\Debug\netcoreapp3.1\MinimodeDos.genruntimeconfig.cache
