@@ -6,9 +6,9 @@ namespace sumaValoresBucleFor
     {
         static void Main(string[] args)
         {
-            int cantidadValores = int.Parse(Console.ReadLine());
-            string[] valores = (Console.ReadLine()).Split(' '); //Version mas restringida
-            int[] conversion = Array.ConvertAll(valores, int.Parse);
+            Console.WriteLine("Ingrese la cantidad de numeros a sumar:");
+            int cantidadValores = int.Parse(Console.ReadLine()); 
+            int[] conversion = Array.ConvertAll((Console.ReadLine()).Split(' '), int.Parse);
             int suma = 0;
 
             for (int i = 0; i < cantidadValores; i++)

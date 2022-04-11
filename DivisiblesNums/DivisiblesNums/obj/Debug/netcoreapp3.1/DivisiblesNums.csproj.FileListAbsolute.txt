@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.exe
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.deps.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.runtimeconfig.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.runtimeconfig.dev.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.dll
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\bin\Debug\netcoreapp3.1\DivisiblesNums.pdb
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.AssemblyInfo.cs
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.dll
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.pdb
+C:\Users\crist\source\repos\csharp-resolvingproblems\DivisiblesNums\DivisiblesNums\obj\Debug\netcoreapp3.1\DivisiblesNums.genruntimeconfig.cache

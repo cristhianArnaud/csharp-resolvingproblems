@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\SumaEntradaDatosArrayFor\\SumaEntradaDatosArrayFor\\SumaEntradaDatosArrayFor.csproj",
-      "projectName": "SumaEntradaDatosArrayFor",
-      "projectPath": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\SumaEntradaDatosArrayFor\\SumaEntradaDatosArrayFor\\SumaEntradaDatosArrayFor.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\DivisiblesNums\\DivisiblesNums\\DivisiblesNums.csproj",
+      "projectName": "DivisiblesNums",
+      "projectPath": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\DivisiblesNums\\DivisiblesNums\\DivisiblesNums.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\SumaEntradaDatosArrayFor\\SumaEntradaDatosArrayFor\\obj\\",
+      "outputPath": "C:\\Users\\crist\\source\\repos\\csharp-resolvingproblems\\DivisiblesNums\\DivisiblesNums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\crist\source\repos\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\ob
 C:\Users\crist\source\repos\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.dll
 C:\Users\crist\source\repos\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.pdb
 C:\Users\crist\source\repos\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.genruntimeconfig.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.exe
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.deps.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.runtimeconfig.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.runtimeconfig.dev.json
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.dll
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\bin\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.pdb
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.AssemblyInfo.cs
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.dll
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.pdb
+C:\Users\crist\source\repos\csharp-resolvingproblems\SumaEntradaDatosArrayFor\SumaEntradaDatosArrayFor\obj\Debug\netcoreapp3.1\SumaEntradaDatosArrayFor.genruntimeconfig.cache
